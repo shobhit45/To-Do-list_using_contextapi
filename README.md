@@ -1,5 +1,5 @@
 
-## Todo List Project
+# Todo List Project
 - This project is a Todo List application built using React, Context API for state management, and Local Storage for data persistence.
 - The app is styled using Tailwind CSS and uses Vite as the build tool.
 
