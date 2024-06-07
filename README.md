@@ -9,7 +9,7 @@
 - Context API: Utilizes React's Context API for state management, making state accessible across the component tree without prop drilling.
 - Modern Styling: Styled with Tailwind CSS for a responsive and modern user interface.
 
-- 
+  
 
  ## Tech Stack
 - React: A JavaScript library for building user interfaces.
