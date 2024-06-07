@@ -1,7 +1,11 @@
 
+
 # Todo List Project
 - This project is a Todo List application built using React, Context API for state management, and Local Storage for data persistence.
 - The app is styled using Tailwind CSS and uses Vite as the build tool.
+
+## visit the live version and experience the magic
+- https://to-do-list-using-contextapi.vercel.app/
 
 ## Features
 - Add, Edit, and Delete Tasks: Manage your tasks efficiently with options to add, edit, and delete them.
