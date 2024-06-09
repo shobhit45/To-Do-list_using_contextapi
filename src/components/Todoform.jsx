@@ -7,6 +7,7 @@ function TodoForm() {
     const add=(e)=>{
         e.preventDefault()
         if (!todo) {
+            alert("please enter a todo")
             return 
         }
         addtodo({todo ,completed:false})
